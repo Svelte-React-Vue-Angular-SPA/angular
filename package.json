@@ -1,5 +1,5 @@
 {
-  "name": "angular-cw",
+  "name": "@svelte-react-vue-angular-spa/angular-cw",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
